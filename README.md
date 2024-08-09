@@ -1,4 +1,4 @@
-# Privacy Policy
+## Privacy Policy
 
 Hangzhou Heather Network Technology Co., Ltd. (hereinafter referred to as "Heather", "we", or "us") is a developer publisher for free gaming apps. Our SERVICE is provided at no cost and is intended for use as is.
 
@@ -38,7 +38,7 @@ We do not share your personal data with third parties without your prior consent
 
 When you consent to data collection for advertising and analytics purposes, we may share the data listed above with the following categories of recipients:
 
-Ad Partners: These allow us to monetize our apps' ad inventory and provide free products and services. Partners usually collect data via their own Software Development Kits (SDKs).
+Third-party Service Partners: These allow us to monetize our apps' ad inventory and provide free products and services. Partners usually collect data via their own Software Development Kits (SDKs).
 
 +   [AdColony](https://www.adcolony.com/privacy-policy/)
 +   [AdMob](https://policies.google.com/privacy?hl=en)
